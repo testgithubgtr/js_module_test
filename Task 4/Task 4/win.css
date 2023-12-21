@@ -1,0 +1,44 @@
+body{
+    background: #89C15E;
+    font-family: monospace;
+}
+
+.container{
+    display: grid;
+    width: 700px;
+    margin: 80px auto 0 auto;
+}
+
+.text{
+    margin: auto;
+    color: white;
+    line-height: 0px;
+}
+
+.text h1{
+    font-size: 90px;
+}
+
+.text p {
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+img{
+    width: 80%;
+    margin: auto;
+}
+
+.play {
+    margin: 30px auto;
+    background: white;
+    letter-spacing: 3px;
+    color: black;
+    outline: none;
+    cursor: pointer;
+    padding: 15px 20px;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+}
